@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Beatiful Wife</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My Beatiful Wife</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <lastBuildDate>Thu, 18 Sep 2025 21:51:19 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Love</title>
+      <link>http://localhost:1313/posts/my-love/</link>
+      <pubDate>Thu, 18 Sep 2025 21:51:19 -0400</pubDate>
+      <guid>http://localhost:1313/posts/my-love/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
